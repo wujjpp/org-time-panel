@@ -17,6 +17,6 @@ export const plugin = new PanelPlugin<SimpleOptions>(SimplePanel).setPanelOption
     .addTextInput({
       path: 'color',
       name: 'Color',
-      defaultValue: 'rgb(204, 204, 220)',
+      defaultValue: 'rgb(250, 222, 42)',
     });
 });
